@@ -1,0 +1,87 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+4
+num1
+1
+0
+4
+num2
+1
+0
+4
+suma
+1
+0
+6
+3
+5
+resta
+1
+0
+14
+multiplicacion
+1
+0
+8
+division
+1
+0
+4
+1
+28
+'Ingresa el primer numero: '
+5
+1
+4
+num1
+4
+1
+29
+'Ingresa el segundo numero: '
+5
+1
+4
+num2
+6
+3
+4
+suma
+11
+num1 + num2
+5
+resta
+11
+num1 - num2
+14
+multiplicacion
+11
+num1 * num2
+6
+1
+8
+division
+11
+num1 / num2
+4
+1
+37
+'La suma de ambos numeros es: ', suma
+4
+1
+39
+'La resta de ambos numeros es: ', resta
+4
+1
+57
+'La multiplicacion de ambos numeros es: ', multiplicacion
+4
+1
+45
+'La division de ambos numeros es: ', division
+1
